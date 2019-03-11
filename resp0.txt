@@ -1,0 +1,13 @@
+cd "google drive"
+cd uc
+cd 1-2019
+cd programación
+cd L0
+git add *
+git commit -m "Update Prueba"
+git push
+git pull
+git add *
+git commit -m "Ultima edicion pero ahora localmente y pusheado"
+git push
+doskey/History
