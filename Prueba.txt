@@ -1,2 +1,3 @@
 Editando el archivo de texto en linea, soy Vicente y estudio Ingenieria.
 Editando por segunda vez.
+Editando ahora de manera local a traves del bloc de notas. Lo anterior fue editado en linea y pulleado para tenerlo localmente.
